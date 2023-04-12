@@ -1,0 +1,2 @@
+Pytorch:
+https://github.com/dougbrion/pytorch-classification-uncertainty

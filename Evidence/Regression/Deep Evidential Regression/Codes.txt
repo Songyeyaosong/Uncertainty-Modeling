@@ -1,0 +1,5 @@
+TensorFlow:
+(Official)https://github.com/aamini/evidential-deep-learning
+
+Pytorch:
+https://github.com/aamini/evidential-deep-learning
