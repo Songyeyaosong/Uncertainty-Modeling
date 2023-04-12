@@ -4,7 +4,9 @@ The directions and papers currently covered are as follows:
 
 ## Bayesian
 
-No yet.
+**Theory:**
+
+- What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision
 
 ## Evidence
 
