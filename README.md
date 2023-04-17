@@ -22,6 +22,10 @@ The directions and papers currently covered are as follows:
 
 - Open Set Action Recognition via Multi-Label Evidential Learning
 
+**Detection:**
+
+- EvCenterNet: Uncertainty Estimation for Object Detection using Evidential Learning
+
 ## Others
 
 **Classification:**
