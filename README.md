@@ -17,6 +17,7 @@ The directions and papers currently covered are as follows:
 **Regression:**
 
 - Deep Evidential Regression
+- Multivariate Deep Evidential Regression
 
 **Multi-Label Classification:**
 

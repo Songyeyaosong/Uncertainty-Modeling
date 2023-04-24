@@ -4,4 +4,12 @@
 
 ## Codes
 
-1. No yet.
+1. TensorFlow:
+
+   https://github.com/kyle-dorman/bayesian-neural-network-blogpost
+
+   https://github.com/pmorerio/dl-uncertainty
+
+   Pytorch:
+
+   https://github.com/hmi88/what
