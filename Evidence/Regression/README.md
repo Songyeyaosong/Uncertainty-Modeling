@@ -13,7 +13,7 @@
 
    Pytorch:
 
-   https://github.com/aamini/evidential-deep-learning
+   https://github.com/deebuls/deep_evidential_regression_loss_pytorch
 
 2. Pytorch:
 
