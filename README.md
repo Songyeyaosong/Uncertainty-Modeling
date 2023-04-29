@@ -13,6 +13,7 @@ The directions and papers currently covered are as follows:
 **Classification:**
 
 - Evidential Deep Learning to Quantify Classification Uncertainty
+- Evidential Deep Learning for Open Set Action Recognition
 
 **Regression:**
 
