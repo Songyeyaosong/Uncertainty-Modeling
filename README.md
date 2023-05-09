@@ -34,3 +34,7 @@ The directions and papers currently covered are as follows:
 **Classification:**
 
 - Uncertainty-Aware Few-Shot Image Classification
+
+**Theory:**
+
+- Self-adaptive robust nonlinear regression for unknown noise via mixture of Gaussians
