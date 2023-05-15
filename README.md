@@ -24,7 +24,3 @@ The directions and papers currently covered are as follows:
 	- ### [Detection](https://github.com/Songyeyaosong/Uncertainty-Modeling/tree/master/Others/Detection)
 	
 	- ### [Theory](https://github.com/Songyeyaosong/Uncertainty-Modeling/tree/master/Others/Theory)
-
-
-
-👆 [<b>BACK to Table of Contents</b> -->](#目录)
