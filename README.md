@@ -1,49 +1,30 @@
+# Uncertainty-Modeling
 **This repository is created for uncertainty modeling, which is used to store papers and codes of uncertainty modeling in various directions.**
 
 The directions and papers currently covered are as follows:
 
-## Bayesian
 
-**Theory:**
 
-- What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision
-- Dropout as a bayesian approximation Representing model uncertainty in deep learning
+- **Bayesian:**
+	
+	- ### [Detection](https://github.com/Songyeyaosong/Uncertainty-Modeling/tree/master/Bayesian/Detection)
+	- ### [Theory](https://github.com/Songyeyaosong/Uncertainty-Modeling/tree/master/Bayesian/Theory)
+	
+- **Evidence:**
+	
+	- ### [Classification](https://github.com/Songyeyaosong/Uncertainty-Modeling/tree/master/Evidence/Classification)
+	- ### [Detection](https://github.com/Songyeyaosong/Uncertainty-Modeling/tree/master/Evidence/Detection)
+	- ### [Multi-Label Classification](https://github.com/Songyeyaosong/Uncertainty-Modeling/tree/master/Evidence/Multi-Label Classification)
+	- ### [Regression](https://github.com/Songyeyaosong/Uncertainty-Modeling/tree/master/Evidence/Regression)
+	
+-  **Others:**
+	
+	- ### [Classification](https://github.com/Songyeyaosong/Uncertainty-Modeling/tree/master/Others/Classification)
+	
+	- ### [Detection](https://github.com/Songyeyaosong/Uncertainty-Modeling/tree/master/Others/Detection)
+	
+	- ### [Theory](https://github.com/Songyeyaosong/Uncertainty-Modeling/tree/master/Others/Theory)
 
-**Detection:**
 
-- BayesOD: A Bayesian Approach for Uncertainty Estimation in Deep
 
-## Evidence
-
-**Classification:**
-
-- Evidential Deep Learning to Quantify Classification Uncertainty
-- Evidential Deep Learning for Open Set Action Recognition
-
-**Regression:**
-
-- Deep Evidential Regression
-- Multivariate Deep Evidential Regression
-
-**Multi-Label Classification:**
-
-- Open Set Action Recognition via Multi-Label Evidential Learning
-
-**Detection:**
-
-- EvCenterNet: Uncertainty Estimation for Object Detection using Evidential Learning
-
-## Others
-
-**Classification:**
-
-- Uncertainty-Aware Few-Shot Image Classification
-
-**Theory:**
-
-- Self-adaptive robust nonlinear regression for unknown noise via mixture of Gaussians、
-
-**Detection:**
-
-- Bounding Box Regression with Uncertainty for Accurate Object Detection
-- Estimating and Evaluating Regression Predictive Uncertainty in Deep Object Detectors
+👆 [<b>BACK to Table of Contents</b> -->](#目录)
