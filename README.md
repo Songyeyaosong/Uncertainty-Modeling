@@ -9,6 +9,10 @@ The directions and papers currently covered are as follows:
 - What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision
 - Dropout as a bayesian approximation Representing model uncertainty in deep learning
 
+**Detection:**
+
+- BayesOD: A Bayesian Approach for Uncertainty Estimation in Deep
+
 ## Evidence
 
 **Classification:**
@@ -37,4 +41,9 @@ The directions and papers currently covered are as follows:
 
 **Theory:**
 
-- Self-adaptive robust nonlinear regression for unknown noise via mixture of Gaussians
+- Self-adaptive robust nonlinear regression for unknown noise via mixture of Gaussians、
+
+**Detection:**
+
+- Bounding Box Regression with Uncertainty for Accurate Object Detection
+- Estimating and Evaluating Regression Predictive Uncertainty in Deep Object Detectors
