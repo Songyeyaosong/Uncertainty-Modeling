@@ -14,7 +14,7 @@ The directions and papers currently covered are as follows:
 	
 	- ### [Classification](https://github.com/Songyeyaosong/Uncertainty-Modeling/tree/master/Evidence/Classification)
 	- ### [Detection](https://github.com/Songyeyaosong/Uncertainty-Modeling/tree/master/Evidence/Detection)
-	- ### [Multi-Label Classification](https://github.com/Songyeyaosong/Uncertainty-Modeling/tree/master/Evidence/Multi-Label Classification)
+	- ### [Multi-Label Classification](https://github.com/Songyeyaosong/Uncertainty-Modeling/tree/master/Evidence/Multi-Label%20Classification)
 	- ### [Regression](https://github.com/Songyeyaosong/Uncertainty-Modeling/tree/master/Evidence/Regression)
 	
 -  **Others:**
