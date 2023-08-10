@@ -2,6 +2,7 @@
 
 1. Deep Evidential Regression
 1. Multivariate Deep Evidential Regression
+1. Trustworthy Multimodal Regression with Mixture of Normal-inverse Gamma Distributions
 
 ## Codes
 
@@ -18,3 +19,6 @@
 2. Pytorch:
 
    (Official)https://github.com/avitase/mder
+
+3. Pytorch:
+   (Official)https://github.com/mahuanaaa/monig
